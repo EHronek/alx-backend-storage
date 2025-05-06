@@ -1,0 +1,2 @@
+// displays the number of docuemtns in the collection school
+db.school.countDocuments({name: "ALX"});
